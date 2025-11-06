@@ -1,0 +1,21 @@
+{
+  "name": "21-chat-room-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/ws": "^8.18.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
