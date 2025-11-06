@@ -9,7 +9,7 @@ app.use(express.json());
 // ✅ Allowed origins for CORS
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://token-launcher-nine.vercel.app',
+  'https://chat-front-umber-eight.vercel.app',
   
 ];
 
