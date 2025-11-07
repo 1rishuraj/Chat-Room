@@ -8,7 +8,7 @@ app.use(express.json());
 
 // ✅ Allowed origins for CORS
 const allowedOrigins = [
-  'http://localhost:5173',
+  'http://localhost:8080',
   'https://chat-front-umber-eight.vercel.app',
   
 ];
