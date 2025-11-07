@@ -1,5 +1,5 @@
 import { WebSocket, WebSocketServer } from "ws";
-let ws=new WebSocketServer({port:8080})
+let ws=new WebSocketServer({port:8081})
 import cors from 'cors';
 import express from 'express';
 
